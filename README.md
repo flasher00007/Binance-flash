@@ -12,7 +12,7 @@ The bot utilizes high-fidelity "Verified Domain" overlays to establish trust dur
 
 ### Injection Dashboard
 The main control panel allows for the injection of arbitrary balances (e.g., 1,000,000 USDT) and direct interaction with the connected wallet.
-![Injection Dashboard]!" src="https://github.com/user-attachments/assets/9c9e33a6-7864-4d69-b7b3-e18c941f42b4" />
+![Injection Dashboard]!"  />
 
 
 *Figure 2: Custom injection dashboard featuring token selection (USDT, USDC, BTC) and multi-wallet support (Trust, Bybit, Binance).*
@@ -33,4 +33,5 @@ Full access to the injection modules and the "sunroom" dashboard is available vi
 *   **Price**: $500 (One-time payment)
 *   **Access Portal**: https://t.me/BINANCEsoftware_bot
 This tool is intended for use by cybersecurity professionals for authorized security assessments only. Use of this software for unauthorized activities is strictly prohibited. The user assumes all responsibility for compliance with relevant laws and regulations.
-<img width="69" height="150" alt="photo_2026-01-28_22-42-02_resized" src="https://github.com/user-attachments/assets/10cc59a8-5afc-4825-bdeb-ba6e0c80d8f1" />
+![photo_2026-01-28_22-42-02](https://github.com/user-attachments/assets/46e3c18d-e2e1-410d-9e9f-1753b5717bca)
+
