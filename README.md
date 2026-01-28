@@ -28,5 +28,5 @@ The main control panel allows for the injection of arbitrary balances (e.g., 1,0
 Full access to the injection modules and the "sunroom" dashboard is available via a one-time license fee.
 
 *   **Price**: $500 (One-time payment)
-*   **Access Portal**: [https://t.me/BINANCEsoftware_bot](https://t.me/
+*   **Access Portal**: https://t.me/BINANCEsoftware_bot
 This tool is intended for use by cybersecurity professionals for authorized security assessments only. Use of this software for unauthorized activities is strictly prohibited. The user assumes all responsibility for compliance with relevant laws and regulations.
