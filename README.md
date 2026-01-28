@@ -6,7 +6,7 @@ The most advanced solution for real-time balance manipulation and UI injection a
 
 ### Wallet Connection Interface
 The bot utilizes high-fidelity "Verified Domain" overlays to establish trust during the connection phase.
-![Wallet Connection]()![jiz]()
+
 
 *Figure 1: High-trust DApp connection interface (e.g., binanceinjection-main.vercel.app) with multi-chain support.*
 
